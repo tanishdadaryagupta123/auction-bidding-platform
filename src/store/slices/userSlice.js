@@ -7,7 +7,7 @@ import axios from "axios";
 import { toast } from "react-toastify";
 
 // Define API_BASE_URL at the top
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:5001";
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:5002";
 
 // Rest of your code...
 
