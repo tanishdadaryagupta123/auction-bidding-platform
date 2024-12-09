@@ -12,8 +12,8 @@ const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:5002
 // Rest of your code...
 
 
-//const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || "http://localhost:5001";
-//const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:5001";
+//const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || "http://localhost:5002";
+//const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:5002";
 
 const userSlice = createSlice({
   name: "user",
